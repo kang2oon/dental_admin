@@ -1,9 +1,0 @@
-[
-{
-	"text":"<a href=\"#\" onclick=\"page_open('/guide/frame', this)\">기본 구조</a>"
-},{
-	"text":"<a href=\"#\" onclick=\"page_open('/guide/menus', this)\">메뉴 구성법</a>"
-},{
-	"text":"<a href=\"#\" onclick=\"page_open('/guide/contents', this)\">콘텐츠 생성</a>"
-}
-]

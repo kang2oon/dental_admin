@@ -1,0 +1,25 @@
+[
+{
+	"text":"<a href=\"#\" onclick=\"page_open('dashboard')\">Dashboard</a>"
+},
+{
+	"text":"<a href=\"#\" onclick=\"page_open('member/list')\">회원관리</a>"
+},
+{
+	"text":"CSS",
+	"state":"closed",
+	"children":[{
+		"text":"<a href=\"#\" onclick=\"page_open('css')\">CSS Intro</a>"
+		},{
+		"text":"<a href=\"#\" onclick=\"page_open('basic')\">CSS 코드 작성 규칙</a>"
+		},{
+		"text":"<a href=\"#\" onclick=\"page_open('selector')\">CSS Selector</a>"
+		},{
+		"text":"<a href=\"#\" onclick=\"page_open('reset')\">RESET CSS</a>"
+		},{
+		"text":"<a href=\"#\" onclick=\"page_open('font')\">CSS 폰트 단위</a>"
+	},{
+		"text":"<a href=\"#\" onclick=\"page_open('hack')\">CSS Hack</a>"
+	}]
+}
+]
