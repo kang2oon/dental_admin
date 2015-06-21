@@ -42,10 +42,10 @@
 			<div class="col-xs-12 menu-bg">
 				<div class="gnb">
 					<ul>
-						<li><a href="javascript:void(0);">μ ν’μ†κ°</a></li>
-						<li><a href="javascript:void(0);">μ‹μ κ°€μ΄λ“</a></li>
+						<li><a href="javascript:void(0);">Α¦Η°ΌÒ°³</a></li>
+						<li><a href="javascript:void(0);">½ΓΌϊ°΅ΐΜµε</a></li>
 						<li>
-							<a href="javascript:void(0);" class="sub2">μΉ΄λ‹¬λ΅κ·Έ</a>
+							<a href="javascript:void(0);" class="sub2">Δ«΄ή·Ξ±Χ</a>
 							<div  class="menu-dp2">
 							<ul>
 								<li><a href="javascript:void(0);">Fixture</a></li>
@@ -59,22 +59,22 @@
 							</ul>
 							</div>
 						</li>
-						<li><a href="javascript:void(0);">μ•„μΉ΄λ°λ―Έ</a></li>
-						<li><a href="javascript:void(0);">μ„μƒν¬λΌ</a></li>
+						<li><a href="javascript:void(0);">ΎΖΔ«µ¥ΉΜ</a></li>
+						<li><a href="javascript:void(0);">ΐΣ»σΖχ·³</a></li>
 					</ul>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-xs-12 aritcle">
-				<h2>μ ν’μ†κ°</h2>
+				<h2>Α¦Η°ΌÒ°³</h2>
 				<ul class="twofour clearfix">
 					<li>
 						<a href="javascript:void(0);" class="up_a">
 						<img src="http://lorempixel.com/320/240/technics/" alt="" class="img-responsive" />
 						<div class="up_tw">
-							<h3>μ ν’1 νƒ€μ΄ν‹€</h3>
-							<p>μ ν’1μ κ°„λµν• μ„¤λª…λ¬Έκµ¬κ°€ λ“¤μ–΄κ°€λ” μλ¦¬μ…λ‹λ‹¤.</p>
+							<h3>Α¦Η°1 ΕΈΐΜΖ²</h3>
+							<p>Α¦Η°1ΐΗ °£·«ΗΡ Ό³ΈνΉ®±Έ°΅ µιΎξ°΅΄Β ΐΪΈ®ΐΤ΄Ο΄Ω.</p>
 						</div>
 						</a>
 					</li>
@@ -82,8 +82,8 @@
 						<a href="javascript:void(0);" class="up_a">
 						<img src="http://lorempixel.com/320/240/abstract/" alt="" class="img-responsive" />
 						<div class="up_tw">
-							<h3>μ ν’2 νƒ€μ΄ν‹€</h3>
-							<p>μ ν’2μ κ°„λµν• μ„¤λª…λ¬Έκµ¬κ°€ λ“¤μ–΄κ°€λ” μλ¦¬μ…λ‹λ‹¤.</p>
+							<h3>Α¦Η°2 ΕΈΐΜΖ²</h3>
+							<p>Α¦Η°2ΐΗ °£·«ΗΡ Ό³ΈνΉ®±Έ°΅ µιΎξ°΅΄Β ΐΪΈ®ΐΤ΄Ο΄Ω.</p>
 						</div>
 						</a>
 					</li>
@@ -91,8 +91,8 @@
 						<a href="javascript:void(0);" class="up_a">
 						<img src="http://lorempixel.com/320/240/transport/" alt="" class="img-responsive" />
 						<div class="up_tw">
-							<h3>μ ν’3 νƒ€μ΄ν‹€</h3>
-							<p>μ ν’3μ κ°„λµν• μ„¤λª…λ¬Έκµ¬κ°€ λ“¤μ–΄κ°€λ” μλ¦¬μ…λ‹λ‹¤.</p>
+							<h3>Α¦Η°3 ΕΈΐΜΖ²</h3>
+							<p>Α¦Η°3ΐΗ °£·«ΗΡ Ό³ΈνΉ®±Έ°΅ µιΎξ°΅΄Β ΐΪΈ®ΐΤ΄Ο΄Ω.</p>
 						</div>
 						</a>
 					</li>
@@ -100,8 +100,8 @@
 						<a href="javascript:void(0);" class="up_a">
 						<img src="http://lorempixel.com/320/240/people/" alt="" class="img-responsive" />
 						<div class="up_tw">
-							<h3>μ ν’4 νƒ€μ΄ν‹€</h3>
-							<p>μ ν’4μ κ°„λµν• μ„¤λª…λ¬Έκµ¬κ°€ λ“¤μ–΄κ°€λ” μλ¦¬μ…λ‹λ‹¤.</p>
+							<h3>Α¦Η°4 ΕΈΐΜΖ²</h3>
+							<p>Α¦Η°4ΐΗ °£·«ΗΡ Ό³ΈνΉ®±Έ°΅ µιΎξ°΅΄Β ΐΪΈ®ΐΤ΄Ο΄Ω.</p>
 						</div>
 						</a>
 					</li>

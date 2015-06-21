@@ -1,16 +1,16 @@
 		<section class="fnb">
 			<div class="menu_wrap">
 				<div class="row fs_menu">
-					<div class="col-xs-2"><a href="/"><button type="button" class="btn btn-footer btn-xs btn-block"><span class="glyphicon glyphicon-home"></span><!--div class="go_home">í™ˆ</div></a--></div>
-					<div class="col-xs-3"><a href="http://www.rexfield.com" target="_blank"><button type="button" class="btn btn-footer btn-xs btn-block">PCë²„ì „</button></a></div>
+					<div class="col-xs-2"><a href="/"><button type="button" class="btn btn-footer btn-xs btn-block"><span class="glyphicon glyphicon-home"></span><!--div class="go_home">È¨</div></a--></div>
+					<div class="col-xs-3"><a href="http://www.rexfield.com" target="_blank"><button type="button" class="btn btn-footer btn-xs btn-block">PC¹öÀü</button></a></div>
 					<div class="col-xs-5"><a href="tel:031-506-3651"><button type="button" class="btn btn-footer btn-xs btn-block"><span class="glyphicon glyphicon-phone-alt"></span>&nbsp;&nbsp;031-506-3651</button></a></div>
 					<div class="col-xs-2"><a href="#"><button type="button" class="btn btn-footer btn-xs btn-block"><span class="glyphicon glyphicon-chevron-up"></span> TOP</button></a></div>
 				</div>
 				<div class="row">
 					<div class="col-xs-12 text-center ori_padding">
 						<ul>
-							<li><a href="javascript:void(0);">ì´ìš©ì•½ê´€</a></li>
-							<li><a href="javascript:void(0);">ê°œì¸ì •ë³´ì·¨ê¸‰ë°©ì¹¨</a></li>
+							<li><a href="javascript:void(0);">ÀÌ¿ë¾à°ü</a></li>
+							<li><a href="javascript:void(0);">°³ÀÎÁ¤º¸Ãë±Þ¹æÄ§</a></li>
 						</ul>
 					</div>
 				</div>
